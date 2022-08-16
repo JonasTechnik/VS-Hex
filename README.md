@@ -1,3 +1,4 @@
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/TiverOwner/VS-Hex/total">
 # VS-Hex - The color tool for visual studio programmers
 
 ![GitHub Logo](pc.png)
